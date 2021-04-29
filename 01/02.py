@@ -1,3 +1,4 @@
+# Меньше программировать надо)
 import calendar as cl
 
 year = int(input())
